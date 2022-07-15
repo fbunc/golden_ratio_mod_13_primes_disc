@@ -22,7 +22,7 @@ $$r[-1]=0$$
 $$r[n] = r[n-1] + \delta[n] $$
 
 
-Time evolves, and becomes interested in modularity:
+Time evolves, and becomes interested in modular shapes and closed loops:
 
 $$\hat n[n] =r[n]·\tau^{n}$$
 
