@@ -1,4 +1,4 @@
-# Golden_Ratio_and_mod_13_structure
+# EigenPhiFunctor
 
 https://www.youtube.com/watch?v=NY5tgKBtLQ0
 
