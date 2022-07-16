@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=NY5tgKBtLQ0
 
 $$ T_o  = \frac{1}{2}(1+\sqrt{5})$$
 
-Some special beings called eigen(values-vectors-functions) helped the discrete time index for the selected $T_o$:
+Some special beings called 'eigen' - (values-vectors-functions) helped the discrete time index for the selected $T_o$:
 
 $$ \tau = e^{\frac{2\pi i}{T_o}}$$
 
