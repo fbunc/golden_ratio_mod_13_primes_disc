@@ -38,3 +38,8 @@ Maybe just an opportunity to share this beautiful map (by Dominic Walliman) :
 A primes disc using this structure:
 
 ![](golden_13_primes_little.png)
+
+
+A bigger one (How would you predict the next frame?):
+
+![](golden_13_primes_bigger.png)
