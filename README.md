@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=NY5tgKBtLQ0
 
 $$ T_o  = \frac{1}{2}(1+\sqrt{5})$$
 
-For the selected $T_o$ 'pause-and-ponder' the best $T_{mod}$, and $T_{color}$:
+For the selected $T_o$ 'pause-and-ponder' looking for the best possible $T_{mod}$, and $T_{color}$:
 
 $$ \tau = e^{\frac{2\pi i}{T_o}}$$
 
