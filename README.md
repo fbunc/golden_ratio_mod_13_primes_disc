@@ -2,6 +2,8 @@
 
 https://www.youtube.com/watch?v=NY5tgKBtLQ0
 
+Just for this puzzle, we can try:
+
 $$ T_o  = \frac{1}{2}(1+\sqrt{5})$$
 
 For the selected $T_o$ 'pause-and-ponder' looking for the best possible $T_{mod}$, and $T_{color}$:
