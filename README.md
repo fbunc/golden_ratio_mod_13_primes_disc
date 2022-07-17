@@ -35,3 +35,6 @@ Maybe just an opportunity to share this beautiful map (by Dominic Walliman) :
 ![](https://i.redd.it/zzyv2fajbnkz.png)
 
 
+A primes disc using this structure:
+
+![](mod_13_and_fibonacci.png)
