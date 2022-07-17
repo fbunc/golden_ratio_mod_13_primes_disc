@@ -1,4 +1,4 @@
-# EigenPhiFunctor
+# Solution to the puzzle
 
 https://www.youtube.com/watch?v=NY5tgKBtLQ0
 
