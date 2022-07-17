@@ -30,5 +30,8 @@ $$\hat n[n] =r[n]·\tau^{n}$$
 
 
 
+Maybe just an opportunity to share this map (by Dominic Walliman) :
+
+![](https://i.redd.it/zzyv2fajbnkz.png)
 
 
