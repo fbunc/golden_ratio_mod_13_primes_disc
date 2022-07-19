@@ -31,6 +31,10 @@ $$\hat n[n] =r[n]·\tau^{n}$$
 
 ![](phi_39_primes_disc.png)
 
+A little more:
+
+![](2_phi_39_sessions.png)
+
 
 Maybe just an opportunity to share this beautiful map (by Dominic Walliman) :
 
