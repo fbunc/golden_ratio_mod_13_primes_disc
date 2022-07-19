@@ -29,6 +29,8 @@ Time evolves, and becomes interested in modular shapes and closed loops:
 $$\hat n[n] =r[n]·\tau^{n}$$
 
 
+![](phi_39_primes_disc.png)
+
 
 Maybe just an opportunity to share this beautiful map (by Dominic Walliman) :
 
