@@ -31,6 +31,11 @@ $$\hat n[n] =r[n]·\tau^{n}$$
 
 ![](phi_39_primes_disc.png)
 
+
+Primes Hole:
+![](primes_hole_big_3d.png)
+
+
 A little more:
 
 ![](2_phi_39_sessions.png)
