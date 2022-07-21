@@ -51,6 +51,6 @@ A primes disc using this structure:
 ![](golden_13_primes_little.png)
 
 
-A bigger one (How would you predict the next frame?):
+A bigger one :
 
 ![](golden_13_primes_bigger.png)
